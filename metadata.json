@@ -1,0 +1,6 @@
+{
+  "name": "ParkFlow — Vehicle Parking Management System",
+  "description": "Full-stack Vehicle Parking Management System with SQLite persistence, automated slot allocation, dynamic hourly fee calculation, daily reports, and a complete Java Spring Boot reference kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
